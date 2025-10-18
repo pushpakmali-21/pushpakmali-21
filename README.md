@@ -6,7 +6,7 @@
 - 📫 How to reach me: **pushpakmali2006@gmail.com**  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpak-mali-b51b11336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpakmali2006@gmail.com) [![leetcode](https://img.shields.io/badge/Leetcode-D14836?logo=gmail&logoColor=white)](https://leetcode.com/u/pushpak_mali11/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpak-mali-b51b11336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpakmali2006@gmail.com) [![leetcode](https://img.shields.io/badge/LeetCode-%23581FA2.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/pushpak_mali11/)
 
 <!-- Snake Game Repo View -->
 
