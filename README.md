@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Pushpak</h1>
+<h3 align="center">AI Engineering Student</h3>
+
+- 🔭 I’m currently in the learning phase  
+- 🌱 I’m currently learning **Artificial Intelligence & Data Science**  
+- 💬 Ask me about **Data Science**  
+- 📫 How to reach me: **pushpakmali2006@gmail.com**  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpak-mali-b51b11336) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pushpakmali2006@gmail.com) 
 
