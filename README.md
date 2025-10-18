@@ -2,8 +2,7 @@
 <h3 align="center">AI Engineering Student</h3>
 
 - 🔭 I’m currently in the learning phase  
-- 🌱 I’m currently learning **Artificial Intelligence & Data Science**  
-- 💬 Ask me about **Data Science**  
+- 🌱 I’m currently learning **Artificial Intelligence & Data Science**   
 - 📫 How to reach me: **pushpakmali2006@gmail.com**  
 
 ## 🌐 Socials:
