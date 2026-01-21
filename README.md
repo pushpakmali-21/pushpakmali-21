@@ -63,10 +63,10 @@
   <a href="mailto:pushpakmali2006@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/>
   </a>
-  <a href="https://leetcode.com/pushpakmali-21/" target="_blank">
+  <a href="https://leetcode.com/pushpak_m7111/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="40" height="40" style="margin: 0 8px;"/>
   </a>
-  <a href="https://www.codechef.com/users/pushpak_mali_" target="_blank">
+  <a href="https://www.codechef.com/users/pushpak_mali" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" alt="CodeChef" width="40" height="40" style="margin: 0 8px; filter: invert(1);"/>
   </a>
 </p>
