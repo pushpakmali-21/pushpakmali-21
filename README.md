@@ -10,7 +10,6 @@
   </a>
 </p>
 
-<br/><br/><br/><br/>
 <img align="right" height="200" width="200" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Banner" />
 
 ## 📌 About Me
