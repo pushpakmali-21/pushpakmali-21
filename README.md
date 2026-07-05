@@ -10,17 +10,40 @@
   </a>
 </p>
 
-<img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Banner" width="100%" />
+<br/><br/><br/><br/>
+<img align="right" height="200" width="200" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Banner" />
 
 ## 📌 About Me
-- 🔭 I’m currently in the learning phase
-- 🌱 I’m currently deepening my knowledge in Artificial Intelligence.
-- 🚀 I’m exploring Machine Learning and Deep Learning for my future studies.
+- 🎓 BTech in Artificial Intelligence & Data Science @ RC Patel Institute of Technology, Shirpur (2024–2028)
+- 🔭 Currently building end-to-end AI-powered applications spanning ML, NLP, and full-stack development
+- 🌱 Deepening my knowledge in Machine Learning, Computer Vision, and AI research
+- 🚀 Exploring Robotics and real-world impact projects in agri-tech and accessibility
+- 🏅 Selected as a **Google Student Ambassador 2026**
 - 📫 How to reach me: pushpakmali2006@gmail.com
 
 
 ## 🧠 My Focus Areas
-- Artificial Intelligence | Machine Learning | Robotics | Web Development | Full Stack AI Projects
+- Artificial Intelligence | Machine Learning | NLP | Computer Vision | Robotics | Full-Stack AI Applications
+
+
+## 🚀 Featured Projects
+ 
+**[ASL Sign Language Converter](https://github.com/pushpakmali-21/ASL-Sign-Language-Converter)**
+Real-time sign language digit recognition using MediaPipe and Random Forest — 99% accuracy on a custom dataset, with a live inference pipeline through a Gradio interface.
+ 
+**[KrishiBandhu — Market Intelligence Platform](https://github.com/pushpakmali-21/KrishiBandhu)**
+AI-powered agricultural market intelligence platform built with Next.js, Express.js, and Python ML services for Mandi price forecasting, weather risk alerts, and multilingual farmer support.
+ 
+**[Workspace Agent](https://github.com/pushpakmali-21/Workspace-Agent)**
+Electron-based MERN + AI remote collaboration platform with secure remote desktop streaming, JWT authentication, and AI-powered voice and screen interactions.
+
+## 🏆 Leadership & Activities
+- **Technical Lead**, Data Polaris Club — built a real-time competitive coding platform with live leaderboards for the Train-Z event at Converges 2026, using Express.js
+- **Technical Team Member**, Data Polaris Club — coordinated technical setup and execution for Train-Z (Converges 2026)
+## 🎯 Achievements
+- Selected as a **Google Student Ambassador 2026**
+- Solved **200+ DSA problems** across LeetCode, HackerRank, and CodeChef
+- **4-star rating** on CodeChef
 
 
 ## 📊 GitHub Stats & Trophies
