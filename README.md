@@ -2,12 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pushpak%20Mali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Impossible%20is%20for%20the%20unwilling..." />
 </p>
-<br>
 
 <table>
   <tr>
