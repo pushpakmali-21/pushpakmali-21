@@ -1,25 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pushpak%20Mali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
-
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Impossible%20is%20for%20the%20unwilling..." alt="Typing introduction" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Pushpak%20Mali&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineering%20Student&descSize=18&descAlignY=55&textBg=false"/>
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Impossible%20is%20for%20the%20unwilling..." />
+</p>
+
+<!-- Subtle spacing -->
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=pushpakmali-21">
-    <img src="https://komarev.com/ghpvc/?username=pushpakmali-21&label=Profile%20views&color=00FFFF&style=flat-square" alt="pushpakmali-21's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=pushpakmali-21&label=Profile%20views&color=00FFFF&style=flat-square" />
   </a>
 </p>
 
-<img align="right" height="200" width="200" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Banner" />
+<br>
 
-## 📌 About Me
-- 🎓 BTech in Artificial Intelligence & Data Science @ RC Patel Institute of Technology, Shirpur (2024–2028)
-- 🔭 Currently building end-to-end AI-powered applications spanning ML, NLP, and full-stack development
-- 🌱 Deepening my knowledge in Machine Learning, Computer Vision, and AI research
-- 🚀 Exploring Robotics and real-world impact projects in agri-tech and accessibility
-- 🏅 Selected as a **Google Student Ambassador 2026**
-- 📫 How to reach me: pushpakmali2006@gmail.com
-
+<table>
+  <tr>
+    <td valign="top" width="75%">
+      <h2>📌 About Me</h2>
+      <ul>
+        <li>🎓 <strong>BTech in Artificial Intelligence & Data Science</strong> @RCPIT, Shirpur (2024–2028)</li>
+        <li>🔭 Currently building end-to-end AI-powered applications spanning ML, NLP, and full-stack development</li>
+        <li>🌱 Deepening my knowledge in Machine Learning, Computer Vision, and AI research</li>
+        <li>🚀 Exploring Robotics and real-world impact projects in agri-tech and accessibility</li>
+        <li>🏅 Selected as a <strong>Google Student Ambassador 2026</strong></li>
+        <li>📫 How to reach me: <code>pushpakmali2006@gmail.com</code></li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="30%">
+      <img height="200" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="Animation" />
+    </td>
+  </tr>
+</table>
 
 ## 🧠 My Focus Areas
 - Artificial Intelligence | Machine Learning | NLP | Computer Vision | Robotics | Full-Stack AI Applications
