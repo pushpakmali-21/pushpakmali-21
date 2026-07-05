@@ -5,16 +5,8 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Impossible%20is%20for%20the%20unwilling..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Impossible%20is%20for%20the%20unwilling..." />
 </p>
-
-<!-- Subtle spacing -->
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=pushpakmali-21">
-    <img src="https://komarev.com/ghpvc/?username=pushpakmali-21&label=Profile%20views&color=00FFFF&style=flat-square" />
-  </a>
-</p>
-
 <br>
 
 <table>
