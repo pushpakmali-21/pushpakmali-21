@@ -39,8 +39,8 @@ AI-powered agricultural market intelligence platform built with Next.js, Express
 Electron-based MERN + AI remote collaboration platform with secure remote desktop streaming, JWT authentication, and AI-powered voice and screen interactions.
 
 ## 🏆 Leadership & Activities
-- **Technical Lead**, Data Polaris Club — built a real-time competitive coding platform with live leaderboards for the Train-Z event at Converges 2026, using Express.js
-- **Technical Team Member**, Data Polaris Club — coordinated technical setup and execution for Train-Z (Converges 2026)
+- **Technical Team Member**, Data Polaris Club — built a real-time competitive coding platform with live leaderboards for the Train-Z event at Converges 2026, using Express.js
+- coordinated technical setup and execution for Train-Z (Converges 2026)
 ## 🎯 Achievements
 - Selected as a **Google Student Ambassador 2026**
 - Solved **200+ DSA problems** across LeetCode, HackerRank, and CodeChef
